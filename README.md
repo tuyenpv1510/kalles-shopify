@@ -1,1 +1,3 @@
 # kalles-shopify
+
+# Training
