@@ -27,3 +27,66 @@ html {
     scroll-padding-top: 7rem;
     scroll-behavior: smooth;
 }
+
+#header-banner {
+    background-color: #130f40;
+}
+
+#wrapper {
+    background-color: #3a3668;
+}
+
+#header-top {
+    background-color: #33314d;
+}
+
+#header-3 {
+    background-color: #be97b8;
+}
+
+#slide-show {
+    background-color: #0f401f;
+}
+
+#type-colection {
+     background-color: #400f0f;
+}
+
+#type-featured-collection {
+     background-color: #400f0f;
+}
+
+#type-banner {
+     background-color: #180f40;
+}
+
+#type-featured-collection {
+     background-color: #130f40;
+}
+
+#type-featured-blog {
+     background-color: #d3dfdb;
+}
+
+#tyoe-instagram {
+     background-color: #18010b;
+}
+
+#type-shipping {
+     background-color: #836e11;
+}
+
+#footer-top {
+     background-color: #880a73;
+}
+
+#footer-bot {
+     background-color: #b7e60d;
+}
+
+.section {
+    width: 100%;
+    min-height: 50px;
+    border: 2px solid red;
+    padding: 15px;
+}
